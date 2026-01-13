@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Student StudyHub",
+  "description": "A comprehensive AI-powered platform for students featuring branch and semester-wise notes, academic AI chat, and an image-based exam question generator.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
